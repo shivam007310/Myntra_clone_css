@@ -13,6 +13,8 @@ const items = [
       current_price: 488,
       discount: 42,
     },
+    return_period: 14,
+    delivery_date: "10 Oct 2023",
   },
   {
     ID: "2",
@@ -28,6 +30,8 @@ const items = [
       current_price: 488,
       discount: 42,
     },
+    return_period: 14,
+    delivery_date: "10 Oct 2023",
   },
   {
     ID: "3",
@@ -43,6 +47,8 @@ const items = [
       current_price: 488,
       discount: 42,
     },
+    return_period: 14,
+    delivery_date: "10 Oct 2023",
   },
   {
     ID: "4",
@@ -58,6 +64,8 @@ const items = [
       current_price: 488,
       discount: 42,
     },
+    return_period: 14,
+    delivery_date: "10 Oct 2023",
   },
   {
     ID: "5",
@@ -73,6 +81,8 @@ const items = [
       current_price: 488,
       discount: 42,
     },
+    return_period: 14,
+    delivery_date: "10 Oct 2023",
   },
   {
     ID: "6",
@@ -88,6 +98,8 @@ const items = [
       current_price: 488,
       discount: 42,
     },
+    return_period: 14,
+    delivery_date: "10 Oct 2023",
   },
   {
     ID: "7",
@@ -103,6 +115,8 @@ const items = [
       current_price: 488,
       discount: 42,
     },
+    return_period: 14,
+    delivery_date: "10 Oct 2023",
   },
   {
     ID: "8",
@@ -118,6 +132,8 @@ const items = [
       current_price: 488,
       discount: 42,
     },
+    return_period: 14,
+    delivery_date: "10 Oct 2023",
   },
   {
     ID: "9",
@@ -133,5 +149,7 @@ const items = [
       current_price: 488,
       discount: 42,
     },
+    return_period: 14,
+    delivery_date: "10 Oct 2023",
   },
 ];
