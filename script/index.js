@@ -1,8 +1,16 @@
-let bagArray = [];
-displayHomepage();
-displayBagicon();
+let bagArray;
+startPage();
+
+function startPage() {
+  let bagStore = localStorage.getItem('bagArray');
+  bagArray = bagStore ? JSON.parse(bagStore) : [];
+  displayHomepage();
+  displayBagicon();
+}
+
 function addToBag(itemId) {
   bagArray.push(itemId);
+  localStorage.setItem('bagArray', JSON.stringify(bagArray));
   displayBagicon();
 }
 function displayBagicon() {
@@ -16,6 +24,9 @@ function displayBagicon() {
 }
 function displayHomepage() {
   let itemsContainerElement = document.querySelector(".items-container");
+  if(!itemsContainerElement){
+    return;
+  }
   let innerHtml = "";
   items.forEach((item) => {
     innerHtml += `

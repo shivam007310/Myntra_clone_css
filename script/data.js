@@ -1,6 +1,6 @@
 const items = [
   {
-    ID:'1',
+    ID: "1",
     image: "/images/products/1.jpg",
     company_name: "Carton london",
     item_name: "rhodium-plated cz-Floral studs",
@@ -15,7 +15,7 @@ const items = [
     },
   },
   {
-    ID:'2',
+    ID: "2",
     image: "/images/products/2.jpg",
     company_name: "Carton london",
     item_name: "rhodium-plated cz-Floral studs",
@@ -30,7 +30,7 @@ const items = [
     },
   },
   {
-    ID:'3',
+    ID: "3",
     image: "/images/products/3.jpg",
     company_name: "Carton london",
     item_name: "rhodium-plated cz-Floral studs",
@@ -45,7 +45,7 @@ const items = [
     },
   },
   {
-    ID:'4',
+    ID: "4",
     image: "/images/products/4.jpg",
     company_name: "Carton london",
     item_name: "rhodium-plated cz-Floral studs",
@@ -60,7 +60,7 @@ const items = [
     },
   },
   {
-    ID:'5',
+    ID: "5",
     image: "/images/products/5.jpg",
     company_name: "Carton london",
     item_name: "rhodium-plated cz-Floral studs",
@@ -75,7 +75,7 @@ const items = [
     },
   },
   {
-    ID:'6',
+    ID: "6",
     image: "/images/products/6.jpg",
     company_name: "Carton london",
     item_name: "rhodium-plated cz-Floral studs",
@@ -90,7 +90,7 @@ const items = [
     },
   },
   {
-    ID:'7',
+    ID: "7",
     image: "/images/products/7.jpg",
     company_name: "Carton london",
     item_name: "rhodium-plated cz-Floral studs",
@@ -105,7 +105,7 @@ const items = [
     },
   },
   {
-    ID:'8',
+    ID: "8",
     image: "/images/products/8.jpg",
     company_name: "Carton london",
     item_name: "rhodium-plated cz-Floral studs",
@@ -120,7 +120,7 @@ const items = [
     },
   },
   {
-    ID:'9',
+    ID: "9",
     image: "/images/products/5.jpg",
     company_name: "Carton london",
     item_name: "rhodium-plated cz-Floral studs",
